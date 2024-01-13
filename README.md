@@ -2,4 +2,4 @@ Uma empresa possui funcionários próprios e terceirizados. Para cada funcionár
 
 O pagamento dos funcionários corresponde ao valor da hora multiplicado pelas horas trabalhadas, sendo que os funcionários terceirizados ainda recebem um bônus correspondente a 110% de sua despesa adicional.
 
-O intuito do programa é ler os dados de N funcionários (N fornecido pelo usuário) e armazenálos em uma lista. Depois de ler todos os dados, o programa exibe o nome e pagamento de cada funcionário na mesma ordem em que foram digitados.
+O intuito do programa é ler os dados de N funcionários (N fornecido pelo usuário) e armazená-los em uma lista. Depois de ler todos os dados, o programa exibe o nome e pagamento de cada funcionário na mesma ordem em que foram digitados.
